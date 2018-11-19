@@ -1,0 +1,226 @@
+id,star,name_cn,name_jp,name_en,name_link,faction,method,hp,atk,card1,card2,card3,card4,card5,np_card,np_type,icon_class,class_link,class,name_other,sex,prop1,prop2,traits,tag,cost
+1,4,玛修・基列莱特,マシュ・キリエライト,Mash Kyrielight,玛修·基列莱特,地,初始获得,12877,8730,Quick,Arts,Arts,Buster,Buster,Arts,辅助,金卡Shielder,Shielder,Shielder,盾娘&学妹,女性,秩序,善,骑乘,,0
+2,5,阿尔托莉雅・潘德拉贡,アルトリア・ペンドラゴン,Altria Pendragon,阿尔托莉雅·潘德拉贡,地,圣晶石常驻,15150,11221,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,呆毛&蓝呆&棉被&Saber&看板娘,女性,秩序,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王&天地(拟似除外),,16
+3,4,阿尔托莉雅・潘德拉贡(Alter),アルトリア・ペンドラゴン〔オルタ〕,Altria Pendragon (Alter),阿尔托莉雅·潘德拉贡(Alter),人,剧情限定,11589,10248,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,黑呆&黑无毛,女性,秩序,恶,龙&阿尔托莉雅脸&亚瑟&王,,12
+4,4,阿尔托莉雅・潘德拉贡(Lily),アルトリア・ペンドラゴン〔リリィ〕,Altria Pendragon (Lily),阿尔托莉雅·潘德拉贡(Lily),地,事前登录赠送<br>活动赠送,10623,7726,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,莉莉,女性,秩序,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王&天地(拟似除外),,12
+5,4,尼禄・克劳狄乌斯,ネロ・クラウディウス,Nero Claudius,尼禄·克劳狄乌斯,人,剧情限定,11753,9449,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Saber,Saber,Saber,尼禄&红Saber,女性,混沌,善,骑乘&罗马&阿尔托莉雅脸&王,,12
+6,4,齐格飞,ジークフリート,Siegfried,齐格飞,地,圣晶石常驻,14165,8181,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,飞哥,男性,混沌,善,骑乘&龙&所爱之人&王&天地(拟似除外),,12
+7,3,盖乌斯・尤利乌斯・恺撒,ガイウス・ユリウス・カエサル,Gaius Julius Caesar,盖乌斯·尤利乌斯·恺撒,人,圣晶石常驻<br>友情点召唤,9595,7497,Quick,Quick,Arts,Buster,Buster,Quick,单体,银卡Saber,Saber,Saber,红Saber(胖)&胖尼禄,男性,中立,中庸,骑乘&神性&罗马&所爱之人&王,,7
+8,5,阿蒂拉,アルテラ,Altera,阿蒂拉,人,圣晶石常驻,13907,12343,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,大王&B提拉&彩笔,女性,混沌,善,骑乘&神性&王,,16
+9,3,吉尔・德・雷,ジル・ド・レェ,Gilles de Rais,吉尔·德·雷,人,圣晶石常驻<br>友情点召唤,10498,6615,Quick,Arts,Arts,Buster,Buster,Arts,辅助,银卡Saber,Saber,Saber,吉尔(lily)&剑元帅,男性,秩序,善,骑乘&所爱之人,,7
+10,4,骑士迪昂,シュヴァリエ・デオン,Chevalier d'Eon,骑士迪昂,人,圣晶石常驻,13256,8765,Quick,Arts,Arts,Buster,Buster,Arts,辅助,金卡Saber,Saber,Saber,,其他,中立,中庸,骑乘,,12
+11,4,卫宫,エミヤ,Emiya,卫宫,人,圣晶石常驻,11521,9398,Quick,Arts,Arts,Arts,Buster,Buster,全体,金卡Archer,Archer,Archer,红A&红茶&核弹剑仙&阿茶&背影男,男性,中立,中庸,所爱之人,,12
+12,5,吉尔伽美什,ギルガメッシュ,Gilgamesh,吉尔伽美什,天,期间限定,13097,12280,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Archer,Archer,Archer,金闪闪&二闪&乌鲁克村长,男性,混沌,善,神性&王&天地(拟似除外),,16
+13,3,罗宾汉,ロビンフッド,Robin Hood,罗宾汉,人,圣晶石常驻<br>友情点召唤,10187,6715,Quick,Quick,Arts,Arts,Buster,Arts,单体,银卡Archer,Archer,Archer,绿茶&罗宾,男性,中立,善,所爱之人,,7
+14,4,阿塔兰忒,アタランテ,Atalante,阿塔兰忒,地,圣晶石常驻,12476,8633,Quick,Quick,Arts,Arts,Buster,Quick,全体,金卡Archer,Archer,Archer,阿塔&塔喵&猫茶,女性,中立,恶,天地(拟似除外),,12
+15,3,尤瑞艾莉,エウリュアレ,Euryale,尤瑞艾莉,天,圣晶石常驻<br>友情点召唤,9506,7032,Quick,Quick,Arts,Arts,Buster,Arts,单体,银卡Archer,Archer,Archer,二姐,女性,混沌,善,神性&天地(拟似除外),,7
+16,1,阿拉什,アーラシュ,Arash,阿拉什,地,友情点召唤,7122,5816,Quick,Arts,Arts,Buster,Buster,Buster,全体,铜卡Archer,Archer,Archer,自爆弓&大英雄&Stella,男性,混沌,中庸,所爱之人&天地(拟似除外),,3
+17,3,库・丘林,クー・フーリン,Cú Chulainn,库·丘林,天,圣晶石常驻<br>友情点召唤,9593,7239,Quick,Quick,Arts,Buster,Buster,Quick,单体,银卡Lancer,Lancer,Lancer,汪酱&大狗,男性,秩序,中庸,神性&所爱之人&天地(拟似除外),,7
+18,4,伊丽莎白・巴托里,エリザベート・バートリー,Elisabeth Báthory,伊丽莎白·巴托里,人,圣晶石常驻,11870,9122,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,龙娘,女性,混沌,恶,龙,,12
+19,2,武藏坊弁庆,武蔵坊弁慶,Musashibou Benkei,武藏坊弁庆,人,友情点召唤,9149,5801,Quick,Quick,Arts,Arts,Buster,Arts,辅助,铜卡Lancer,Lancer,Lancer,常陆坊海尊,男性,混沌,善,所爱之人,,4
+20,3,库・丘林(Prototype),クー・フーリン〔プロトタイプ〕,Cú Chulainn (Prototype),库·丘林(Prototype),天,圣晶石常驻<br>友情点召唤,10098,7082,Quick,Quick,Arts,Buster,Buster,Quick,单体,银卡Lancer,Lancer,Lancer,旧狗,男性,秩序,中庸,神性&天地(拟似除外),,7
+21,2,列奥尼达一世,レオニダス一世,Leonidas I,列奥尼达一世,人,友情点召唤,7959,6583,Quick,Quick,Arts,Buster,Buster,Buster,辅助,铜卡Lancer,Lancer,Lancer,炎头&斯巴达,男性,秩序,中庸,王,,4
+22,3,罗穆路斯,ロムルス,Romulus,罗穆路斯,星,圣晶石常驻<br>友情点召唤,9883,7239,Quick,Quick,Arts,Buster,Buster,Buster,全体,银卡Lancer,Lancer,Lancer,罗马&神祖,男性,混沌,中庸,罗马&王&EA不特攻,,7
+23,3,美杜莎,メドゥーサ,Medusa,美杜莎,地,圣晶石常驻<br>友情点召唤,8937,7200,Quick,Quick,Arts,Arts,Buster,Quick,全体,银卡Rider,Rider,Rider,R姐,女性,混沌,善,骑乘&神性&天地(拟似除外),,7
+24,2,乔尔乔斯,ゲオルギウス,Georgius,乔尔乔斯,人,友情点召唤,9200,5236,Quick,Quick,Arts,Arts,Buster,Arts,单体,铜卡Rider,Rider,Rider,乔老师,男性,秩序,善,骑乘&所爱之人,,4
+25,2,爱德华・蒂奇,エドワード・ティーチ,Edward Teach,爱德华·蒂奇,人,友情点召唤,7907,6188,Quick,Arts,Arts,Buster,Buster,Buster,全体,铜卡Rider,Rider,Rider,黑胡子&男船长,男性,混沌,恶,,,4
+26,3,布狄卡,ブーディカ,Boudica,布狄卡,人,通关报酬<br>圣晶石常驻<br>友情点召唤,10130,6289,Quick,Quick,Arts,Arts,Buster,Arts,辅助,银卡Rider,Rider,Rider,布妈,女性,中立,善,骑乘&王,,7
+27,3,牛若丸,牛若丸,Ushiwakamaru,牛若丸,人,圣晶石常驻<br>友情点召唤,9028,7076,Quick,Quick,Arts,Arts,Buster,Quick,单体,银卡Rider,Rider,Rider,牛肉丸,女性,混沌,中庸,骑乘&所爱之人,,7
+28,3,亚历山大,アレキサンダー,Alexander,亚历山大,人,圣晶石常驻<br>友情点召唤,8640,7356,Quick,Quick,Arts,Arts,Buster,Quick,全体,银卡Rider,Rider,Rider,幼帝,男性,中立,善,骑乘&神性&王&希腊神话男性,,7
+29,4,玛丽・安托瓦内特,マリー・アントワネット,Marie Antoinette,玛丽·安托瓦内特,人,圣晶石常驻,12348,8293,Quick,Quick,Arts,Arts,Buster,Quick,全体,金卡Rider,Rider,Rider,王后&蛋糕,女性,秩序,善,骑乘,,12
+30,4,玛尔达,マルタ,Martha,玛尔达,人,圣晶石常驻,13068,8014,Quick,Arts,Arts,Arts,Buster,Buster,全体,金卡Rider,Rider,Rider,马大&圣女,女性,秩序,善,骑乘&神性,,12
+31,3,美狄亚,メディア,Medea,美狄亚,地,圣晶石常驻<br>友情点召唤,8643,7418,Quick,Arts,Arts,Arts,Buster,Arts,单体,银卡Caster,Caster,Caster,C妈,女性,中立,恶,天地(拟似除外),,7
+32,3,吉尔・德・雷,ジル・ド・レェ,Gilles de Rais,吉尔·德·雷(Caster),人,剧情限定,9506,6514,Quick,Arts,Arts,Arts,Buster,Buster,全体,银卡Caster,Caster,Caster,C元帅&蓝胡子&元帅Lily,男性,混沌,恶,,,7
+33,2,汉斯・克里斯蒂安・安徒生,ハンス・クリスチャン・アンデルセン,Hans Christian Andersen,汉斯·克里斯蒂安·安徒生,人,友情点召唤,8484,5758,Quick,Arts,Arts,Arts,Buster,Arts,辅助,铜卡Caster,Caster,Caster,,男性,秩序,中庸,,,4
+34,2,威廉・莎士比亚,ウィリアム・シェイクスピア,William Shakespeare,威廉·莎士比亚,人,友情点召唤,8080,5798,Quick,Arts,Arts,Arts,Buster,Buster,全体,铜卡Caster,Caster,Caster,莎比&莎翁,男性,中立,中庸,,,4
+35,3,梅菲斯托费勒斯,メフィストフェレス,Mephistopheles,梅菲斯托费勒斯,地,圣晶石常驻<br>友情点召唤,9216,6839,Quick,Arts,Arts,Arts,Buster,Buster,全体,银卡Caster,Caster,Caster,恶魔,男性,混沌,恶,天地(拟似除外),,7
+36,1,沃尔夫冈・阿马德乌斯・莫扎特,ヴォルフガング・アマデウス・モーツァルト,Wolfgang Amadeus Mozart,沃尔夫冈·阿马德乌斯·莫扎特,星,友情点召唤,7129,5195,Quick,Arts,Arts,Arts,Buster,Arts,辅助,铜卡Caster,Caster,Caster,,男性,中立,善,所爱之人&EA不特攻,,3
+37,5,诸葛孔明(埃尔梅罗Ⅱ世),諸葛孔明〔エルメロイⅡ世〕,Zhuge Liang (Lord El-Melloi II),诸葛孔明(埃尔梅罗Ⅱ世),人,圣晶石常驻,14259,10598,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,孔老师,男性,中立,善,所爱之人,,16
+38,3,库・丘林,クー・フーリン,Cú Chulainn,库·丘林(Caster),天,通关报酬<br>剧情限定,9604,6580,Quick,Arts,Arts,Arts,Buster,Buster,全体,银卡Caster,Caster,Caster,C狗&法狗,男性,秩序,中庸,神性&所爱之人&天地(拟似除外),,7
+39,1,佐佐木小次郎,佐々木小次郎,Sasaki Kojirou,佐佐木小次郎,人,友情点召唤,6220,5735,Quick,Quick,Quick,Arts,Buster,Quick,单体,铜卡Assassin,Assassin,Assassin,屠龙剑圣&小次郎,男性,中立,恶,,,3
+40,2,咒腕哈桑,呪腕のハサン,Hassan of the Cursed Arm,咒腕哈桑,人,友情点召唤,7594,6280,Quick,Quick,Quick,Arts,Buster,Quick,单体,铜卡Assassin,Assassin,Assassin,忠义无双,男性,秩序,恶,,,4
+41,4,斯忒诺,ステンノ,Stheno,斯忒诺,天,圣晶石常驻,11518,8985,Quick,Quick,Quick,Arts,Buster,Buster,辅助,金卡Assassin,Assassin,Assassin,大姐,女性,混沌,善,神性&天地(拟似除外),,12
+42,3,荆轲,荊軻,Jing Ke,荆轲,人,圣晶石常驻<br>友情点召唤,8293,7207,Quick,Quick,Quick,Arts,Buster,Quick,单体,银卡Assassin,Assassin,Assassin,,女性,混沌,善,,,7
+43,2,夏尔・亨利・桑松,シャルル＝アンリ・サンソン,Charles-Henri Sanson,夏尔·亨利·桑松,人,友情点召唤,8309,5456,Quick,Quick,Quick,Arts,Buster,Buster,单体,铜卡Assassin,Assassin,Assassin,,男性,秩序,恶,,,4
+44,2,剧院魅影,ファントム・オブ・ジ・オペラ,Phantom of the Opera,剧院魅影,地,友情点召唤,8393,5654,Quick,Quick,Quick,Arts,Buster,Arts,全体,铜卡Assassin,Assassin,Assassin,,男性,混沌,恶,天地(拟似除外),,4
+45,1,玛塔・哈丽,マタ・ハリ,Mata Hari,玛塔·哈丽,人,友情点召唤,6565,5377,Quick,Quick,Quick,Arts,Buster,Arts,辅助,铜卡Assassin,Assassin,Assassin,舞娘,女性,混沌,中庸,,,3
+46,4,卡米拉,カーミラ,Carmilla,卡米拉,地,圣晶石常驻,10473,9408,Quick,Quick,Quick,Arts,Buster,Buster,单体,金卡Assassin,Assassin,Assassin,大龙娘,女性,混沌,恶,天地(拟似除外),,12
+47,4,赫拉克勒斯,ヘラクレス,Heracles,赫拉克勒斯,天,圣晶石常驻,10327,10655,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,B叔&海叔,男性,混沌,狂,神性&希腊神话男性&天地(拟似除外),,12
+48,4,兰斯洛特,ランスロット,Lancelot,兰斯洛特,地,圣晶石常驻,10327,10477,Quick,Arts,Buster,Buster,Buster,Quick,全体,金卡Berserker,Berserker,Berserker,长江&狂兰&岳父,男性,秩序,狂,天地(拟似除外),,12
+49,3,吕布奉先,呂布奉先,Lu Bu Fengxian,吕布奉先,人,圣晶石常驻<br>友情点召唤,8302,8119,Quick,Arts,Buster,Buster,Buster,Buster,单体,银卡Berserker,Berserker,Berserker,吕布&吕高达,男性,混沌,恶,,,7
+50,1,斯巴达克斯,スパルタクス,Spartacus,斯巴达克斯,人,友情点召唤,7722,5073,Quick,Arts,Buster,Buster,Buster,Buster,全体,铜卡Berserker,Berserker,Berserker,爱酱&微笑Boy,男性,中立,中庸,罗马,,3
+51,5,坂田金时,坂田金時,Sakata Kintoki,坂田金时,人,期间限定,12150,12712,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,B金时&狗蛋,男性,秩序,善,神性&所爱之人,,16
+52,5,弗拉德三世,ヴラド三世,Vlad III,弗拉德三世,地,圣晶石常驻,13770,11499,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Berserker,Berserker,Berserker,大公&穿刺公&刺绣公&二胡公,男性,混沌,恶,所爱之人&王&天地(拟似除外),,16
+53,1,阿斯忒里俄斯,アステリオス,Asterios,阿斯忒里俄斯,地,友情点召唤,6604,6037,Quick,Arts,Buster,Buster,Buster,Arts,辅助,铜卡Berserker,Berserker,Berserker,小牛,男性,混沌,恶,希腊神话男性&天地(拟似除外),,3
+54,2,卡利古拉,カリギュラ,Caligula,卡利古拉,人,友情点召唤,7303,6831,Quick,Arts,Buster,Buster,Buster,Arts,辅助,铜卡Berserker,Berserker,Berserker,鬼舅,男性,混沌,恶,罗马&王,,4
+55,3,大流士三世,ダレイオス三世,Darius III,大流士三世,人,圣晶石常驻<br>友情点召唤,8763,7608,Quick,Arts,Buster,Buster,Buster,Buster,全体,银卡Berserker,Berserker,Berserker,酋长,男性,秩序,中庸,王,,7
+56,3,清姬,清姫,Kiyohime,清姬,地,通关报酬<br>圣晶石常驻<br>友情点召唤,9166,6644,Quick,Arts,Buster,Buster,Buster,Buster,全体,银卡Berserker,Berserker,Berserker,,女性,混沌,恶,龙&天地(拟似除外),,7
+57,2,血斧埃里克,エイリーク・ブラッドアクス,Eric Bloodaxe,血斧埃里克,人,友情点召唤,7688,6290,Quick,Arts,Buster,Buster,Buster,Buster,全体,铜卡Berserker,Berserker,Berserker,,男性,混沌,中庸,王,,4
+58,4,玉藻猫,タマモキャット,Tamamo Cat,玉藻猫,地,圣晶石常驻,11458,9026,Quick,Arts,Buster,Buster,Buster,Quick,全体,金卡Berserker,Berserker,Berserker,B玉&B狐,女性,混沌,善,野兽&天地(拟似除外),,12
+59,5,贞德,ジャンヌ・ダルク,Jeanne d'Arc,贞德,星,圣晶石常驻,16500,9593,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Ruler,Ruler,Ruler,村姑&贞日天,女性,秩序,善,阿尔托莉雅脸,,16
+60,5,俄里翁,オリオン,Orion,俄里翁,天,圣晶石常驻,14553,11107,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Archer,Archer,Archer,月神,男性,混沌,中庸,希腊神话男性&天地(拟似除外),,16
+61,4,伊丽莎白・巴托里(万圣节),エリザベート・バートリー〔ハロウィン〕,Elisabeth Báthory (Halloween),伊丽莎白·巴托里(万圣节),人,活动赠送,11404,8616,Quick,Arts,Arts,Arts,Buster,Buster,全体,金卡Caster,Caster,Caster,C龙娘&术龙娘,女性,混沌,恶,龙,,12
+62,5,玉藻前,玉藻の前,Tamamo-no-Mae,玉藻前,天,圣晶石常驻,14259,10546,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,C狐&C玉&Miko,女性,中立,恶,神性&天地(拟似除外),,16
+63,3,大卫,ダビデ,David,大卫,天,通关报酬<br>圣晶石常驻<br>友情点召唤,8643,7736,Quick,Arts,Arts,Arts,Buster,Buster,单体,银卡Archer,Archer,Archer,所罗门爹,男性,秩序,中庸,王&天地(拟似除外),,7
+64,3,赫克托耳,ヘクトール,Hector,赫克托耳,人,圣晶石常驻<br>友情点召唤,10200,6928,Quick,Quick,Arts,Buster,Buster,Buster,全体,银卡Lancer,Lancer,Lancer,赫叔,男性,秩序,中庸,骑乘&希腊神话男性,,7
+65,5,弗朗西斯・德雷克,フランシス・ドレイク,Francis Drake,弗朗西斯·德雷克,星,圣晶石常驻,12830,11326,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Rider,Rider,Rider,船长&BBA,女性,混沌,恶,骑乘&EA不特攻,,16
+66,4,安妮・伯妮＆玛莉・瑞德,アン・ボニー＆メアリー・リード,Anne Bonny & Mary Read,安妮·伯妮＆玛莉·瑞德,人,圣晶石常驻,11286,9029,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Rider,Rider,Rider,双子,女性,混沌,恶,,,12
+67,4,美狄亚(Lily),メディア〔リリィ〕,Medea (Lily),美狄亚(Lily),地,剧情限定,13070,7766,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,C子,女性,秩序,善,天地(拟似除外),,12
+68,5,冲田总司,沖田総司,Okita Souji,冲田总司,人,期间限定,13225,12068,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Saber,Saber,Saber,樱Saber&冲太,女性,中立,中庸,骑乘&阿尔托莉雅脸,,16
+69,4,织田信长,織田信長,Oda Nobunaga,织田信长,人,活动赠送,11637,9494,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Archer,Archer,Archer,信长&Nobu,女性,秩序,中庸,王,,12
+70,5,斯卡哈,スカサハ,Scáthach,斯卡哈,星,期间限定,14825,11375,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Lancer,Lancer,Lancer,师匠&BBA&紫发美少女,女性,中立,善,王,,16
+71,3,迪尔姆德・奥迪那,ディルムッド・オディナ,Diarmuid Ua Duibhne,迪尔姆德·奥迪那,地,圣晶石常驻<br>友情点召唤,10098,6877,Quick,Quick,Arts,Arts,Buster,Quick,单体,银卡Lancer,Lancer,Lancer,刷子,男性,秩序,中庸,所爱之人&天地(拟似除外),,7
+72,3,弗格斯・马克・罗伊,フェルグス・マック・ロイ,Fergus mac Róich,弗格斯·马克·罗伊,地,圣晶石常驻<br>友情点召唤,9786,7460,Quick,Arts,Buster,Buster,Buster,Buster,全体,银卡Saber,Saber,Saber,小刚&老福,男性,秩序,中庸,骑乘&所爱之人&王&天地(拟似除外),,7
+73,4,阿尔托莉雅・潘德拉贡(圣诞Alter),アルトリア・ペンドラゴン〔サンタオルタ〕,Altria Pendragon (Santa Alter),阿尔托莉雅·潘德拉贡(圣诞Alter),人,活动赠送,11286,9258,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Rider,Rider,Rider,Raber,女性,秩序,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王,,12
+74,4,童谣,ナーサリー・ライム,Nursery Rhyme,童谣,人,圣晶石常驻,11882,8629,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,爱丽丝,女性,中立,中庸,,,12
+75,5,开膛手杰克,ジャック・ザ・リッパー,Jack the Ripper,开膛手杰克,地,圣晶石常驻,12696,11557,Quick,Quick,Quick,Arts,Buster,Quick,单体,金卡Assassin,Assassin,Assassin,女儿,女性,混沌,恶,天地(拟似除外),,16
+76,5,莫德雷德,モードレッド,Mordred,莫德雷德,地,圣晶石常驻,14680,11723,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,小莫,女性,混沌,中庸,骑乘&龙&阿尔托莉雅脸&天地(拟似除外),,16
+77,5,尼古拉・特斯拉,ニコラ・テスラ,Nikola Tesla,尼古拉·特斯拉,星,剧情限定,13825,11781,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Archer,Archer,Archer,特总&祖师爷,男性,混沌,善,所爱之人&EA不特攻,,16
+78,4,阿尔托莉雅・潘德拉贡(Alter),アルトリア・ペンドラゴン〔オルタ〕,Altria Pendragon (Alter),阿尔托莉雅·潘德拉贡(Alter)(Lancer),天,剧情限定,11761,9968,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,黑枪呆&乳上&南半球,女性,秩序,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王&天地(拟似除外),,12
+79,3,冯・霍恩海姆・帕拉塞尔苏斯,ヴァン・ホーエンハイム・パラケルスス,Paracelsus von Hohenheim,冯·霍恩海姆·帕拉塞尔苏斯,人,圣晶石常驻<br>友情点召唤,9506,6711,Quick,Arts,Arts,Arts,Buster,Arts,全体,银卡Caster,Caster,Caster,豆爸,男性,混沌,善,所爱之人,,7
+80,3,查尔斯・巴贝奇,チャールズ・バベッジ,Charles Babbage,查尔斯·巴贝奇,人,圣晶石常驻<br>友情点召唤,10887,5996,Quick,Arts,Arts,Buster,Buster,Buster,全体,银卡Caster,Caster,Caster,蒸汽王,男性,混沌,中庸,,,7
+81,3,亨利・杰基尔＆海德,ヘンリー・ジキル＆ハイド,Henry Jekyll & Hyde,亨利·杰基尔＆海德,地,通关报酬<br>圣晶石常驻<br>友情点召唤,9675,6320,Quick,Quick,Arts,Buster,Buster,Buster,辅助,银卡Assassin,Assassin,Assassin,海德&化身博士,男性,秩序,善,所爱之人&天地(拟似除外),,7
+82,4,弗兰肯斯坦,フランケンシュタイン,Frankenstein,弗兰肯斯坦,地,圣晶石常驻,10687,9441,Quick,Arts,Buster,Buster,Buster,Quick,全体,金卡Berserker,Berserker,Berserker,肯娘&弗兰,女性,混沌,中庸,天地(拟似除外),,12
+83,5,所罗门,ソロモン,Solomon,所罗门,天,无法获得,—,—,—,—,—,—,—,—,—,金卡Caster,Caster,Caster,小便王,男性,秩序,善,王&天地(拟似除外),,—
+84,5,阿周那,アルジュナ,Arjuna,阿周那,天,圣晶石常驻,13230,12342,Quick,Arts,Arts,Arts,Buster,Buster,全体,金卡Archer,Archer,Archer,周黑鸭&娜娜子,男性,秩序,中庸,神性&天地(拟似除外),,16
+85,5,迦尔纳,カルナ,Karna,迦尔纳,天,圣晶石常驻,13632,11976,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,小太阳,男性,秩序,善,骑乘&神性&所爱之人&天地(拟似除外),,16
+86,5,谜之女主角X,謎のヒロインX,Mysterious Heroine X,谜之女主角X,星,期间限定,12696,11761,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Assassin,Assassin,Assassin,X毛,女性,混沌,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王&EA不特攻,阿尔托莉雅・潘德拉贡,16
+87,4,芬恩・麦克库尔,フィン・マックール,Fionn mac Cumhaill,芬恩·麦克库尔,天,圣晶石常驻,12750,8930,Quick,Quick,Arts,Arts,Buster,Arts,全体,金卡Lancer,Lancer,Lancer,,男性,中立,中庸,神性&天地(拟似除外),,12
+88,5,布伦希尔德,ブリュンヒルデ,Brynhildr,布伦希尔德,天,期间限定,14825,11432,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,布姐,女性,中立,善,骑乘&神性&天地(拟似除外),,16
+89,4,贝奥武夫,ベオウルフ,Beowulf,贝奥武夫,地,圣晶石常驻,10327,10247,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,狼叔&贝爷,男性,混沌,善,所爱之人&王&天地(拟似除外),,12
+90,5,尼禄・克劳狄乌斯(新娘),ネロ・クラウディウス〔ブライド〕,Nero Claudius (Bride),尼禄·克劳狄乌斯(新娘),人,期间限定,14248,11607,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Saber,Saber,Saber,花嫁&嫁王,女性,混沌,花嫁,骑乘&罗马&阿尔托莉雅脸&王,,16
+91,5,两仪式,両儀式,Ryougi Shiki,两仪式,人,期间限定,15453,10721,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Saber,Saber,Saber,剑式&根源式&215,女性,中立,中庸,EA不特攻,,16
+92,4,两仪式,両儀式,Ryougi Shiki,两仪式(Assassin),人,活动赠送,11055,8867,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Assassin,Assassin,Assassin,杀式&214&式姐,女性,混沌,善,EA不特攻,,12
+93,5,天草四郎,天草四郎,Amakusa Shirou,天草四郎,人,期间限定,14107,10972,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Ruler,Ruler,Ruler,天草&小神父&言峰士郎,男性,秩序,善,,,16
+94,4,阿斯托尔福,アストルフォ,Astolfo,阿斯托尔福,地,圣晶石常驻,11172,8937,Quick,Quick,Quick,Arts,Buster,Quick,全体,金卡Rider,Rider,Rider,阿福&伪娘,其他,混沌,善,骑乘&天地(拟似除外),,12
+95,3,幼吉尔,子ギル,Gilgamesh (Child),幼吉尔,天,圣晶石常驻<br>友情点召唤,8731,7696,Quick,Arts,Arts,Buster,Buster,Buster,全体,银卡Archer,Archer,Archer,幼闪,男性,混沌,善,神性&王&天地(拟似除外),,7
+96,5,岩窟王 爱德蒙・唐泰斯,巌窟王 エドモン・ダンテス,Edmond Dantès,岩窟王,人,期间限定,12177,12641,Quick,Quick,Arts,Buster,Buster,Quick,全体,金卡Avenger,Avenger,Avenger,伯爵&超高校级的伯爵&哈哈队成员,男性,混沌,恶,,,16
+97,5,南丁格尔,ナイチンゲール,Florence Nightingale,南丁格尔,人,圣晶石常驻,15221,10184,Quick,Arts,Arts,Buster,Buster,Arts,辅助,金卡Berserker,Berserker,Berserker,南丁&护士,女性,秩序,善,,,16
+98,5,库・丘林(Alter),クー・フーリン〔オルタ〕,Cú Chulainn (Alter),库·丘林(Alter),地,剧情限定,12210,12805,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,黑狗&狂狗&狂王,男性,混沌,恶,神性&所爱之人&天地(拟似除外),,16
+99,5,女王梅芙,女王メイヴ,Queen Medb,女王梅芙,地,剧情限定,13968,10296,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Rider,Rider,Rider,,女性,混沌,恶,骑乘&王&天地(拟似除外),,16
+100,4,海伦娜・布拉瓦茨基,エレナ・ブラヴァツキー,Helena Blavatsky,海伦娜·布拉瓦茨基,人,圣晶石常驻,11882,8629,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,海伦娜&海妈,女性,混沌,善,,,12
+101,4,罗摩,ラーマ,Rama,罗摩,天,圣晶石常驻,11993,9854,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Saber,Saber,Saber,,男性,秩序,善,骑乘&神性&所爱之人&王&天地(拟似除外),,12
+102,4,神枪 李书文,神槍 李書文,Li Shuwen,李书文,人,剧情限定,11360,9653,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Lancer,Lancer,Lancer,李大师,男性,中立,恶,,,12
+103,4,托马斯・爱迪生,トーマス・エジソン,Thomas Edison,托马斯·爱迪生,人,剧情限定,11882,7952,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,爱迪狮,男性,秩序,中庸,,,12
+104,3,杰罗尼莫,ジェロニモ,Geronimo,杰罗尼莫,人,通关报酬<br>圣晶石常驻<br>友情点召唤,9123,6857,Quick,Arts,Arts,Buster,Buster,Arts,全体,银卡Caster,Caster,Caster,萨满,男性,中立,善,所爱之人,,7
+105,3,比利小子,ビリー・ザ・キッド,Billy the Kid,比利小子,人,圣晶石常驻<br>友情点召唤,9506,6890,Quick,Quick,Arts,Arts,Buster,Quick,单体,银卡Archer,Archer,Archer,,男性,混沌,中庸,骑乘,,7
+106,5,贞德(Alter),ジャンヌ・ダルク〔オルタ〕,Jeanne d'Arc (Alter),贞德(Alter),人,期间限定,11761,13244,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Avenger,Avenger,Avenger,黑贞,女性,混沌,恶,阿尔托莉雅脸,,16
+107,0,安哥拉曼纽,アンリマユ,Angra Mainyu,安哥拉曼纽,人,友情点召唤,7981,5683,Quick,Quick,Arts,Arts,Buster,Arts,辅助,黑卡Avenger,Avenger,Avenger,小安,男性,混沌,恶,,,4
+108,5,伊斯坎达尔,イスカンダル,Iskandar,伊斯坎达尔,人,期间限定,13219,11560,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Rider,Rider,Rider,大帝&征服王,男性,中立,善,骑乘&神性&所爱之人&王&希腊神话男性,,16
+109,4,卫宫(Assassin),エミヤ〔アサシン〕,Emiya (Assassin),卫宫(Assassin),人,圣晶石常驻,11168,8958,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Assassin,Assassin,Assassin,切嗣&切丝&Papa,男性,混沌,恶,所爱之人,,12
+110,3,百貌哈桑,百貌のハサン,Hassan of the Hundred Personas,百貌哈桑,人,圣晶石常驻<br>友情点召唤,9310,6686,Quick,Quick,Arts,Arts,Buster,Arts,单体,银卡Assassin,Assassin,Assassin,,女性,秩序,恶,,,7
+111,4,爱丽丝菲尔(天之衣),アイリスフィール〔天の衣〕,Irisviel (Dress of Heaven),爱丽丝菲尔(天之衣),天,活动赠送,12476,8237,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,太太&爱丽,女性,混沌,善,神性&天地(拟似除外),,12
+112,5,酒吞童子,酒呑童子,Shuten-Douji,酒吞童子,地,期间限定,12825,11993,Quick,Quick,Arts,Arts,Buster,Arts,全体,金卡Assassin,Assassin,Assassin,,女性,混沌,恶,神性&魔性&龙&天地(拟似除外),,16
+113,5,玄奘三藏,玄奘三蔵,Xuanzang Sanzang,玄奘三藏,人,圣晶石常驻,12965,11658,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Caster,Caster,Caster,西行者,女性,秩序,善,神性,,16
+114,5,源赖光,源頼光,Minamoto-no-Raikou,源赖光,天,期间限定,13500,11556,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Berserker,Berserker,Berserker,奶光&光妈,女性,混沌,善,骑乘&神性&天地(拟似除外),,16
+115,4,坂田金时,坂田金時,Sakata Kintoki,坂田金时(Rider),地,活动赠送,10800,9819,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Rider,Rider,Rider,R金时,男性,秩序,善,神性&所爱之人&天地(拟似除外),,12
+116,4,茨木童子,茨木童子,Ibaraki-Douji,茨木童子,地,圣晶石常驻,10954,9636,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,脚神,女性,混沌,恶,魔性&天地(拟似除外),,12
+117,3,风魔小太郎,風魔小太郎,"Fuuma ""Evil-wind"" Kotarou",风魔小太郎,人,圣晶石常驻<br>友情点召唤,8844,7091,Quick,Quick,Quick,Arts,Buster,Quick,全体,银卡Assassin,Assassin,Assassin,,男性,混沌,恶,,,7
+118,5,奥斯曼狄斯,オジマンディアス,Ozymandias,奥斯曼狄斯,天,圣晶石常驻,12830,11971,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Rider,Rider,Rider,拉二,男性,混沌,中庸,骑乘&神性&所爱之人&王&天地(拟似除外),,16
+119,5,阿尔托莉雅・潘德拉贡,アルトリア・ペンドラゴン,Altria Pendragon,阿尔托莉雅·潘德拉贡(Lancer),天,剧情限定,15606,10995,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,白枪呆,女性,秩序,善,骑乘&龙&阿尔托莉雅脸&亚瑟&王&天地(拟似除外),,16
+120,4,尼托克丽丝,ニトクリス,Nitocris,尼托克丽丝,地,圣晶石常驻,11288,9060,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,尼托,女性,秩序,善,神性&王&天地(拟似除外),,12
+121,4,兰斯洛特,ランスロット,Lancelot,兰斯洛特(Saber),地,圣晶石常驻,11589,9949,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Saber,Saber,Saber,剑兰,男性,秩序,善,骑乘&所爱之人&天地(拟似除外),,12
+122,4,崔斯坦,トリスタン,Tristan,崔斯坦,地,剧情限定,11637,9735,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Archer,Archer,Archer,小崔&老崔&崔悲伤&特里斯坦&崔卿&特卿,男性,秩序,善,天地(拟似除外),,12
+123,4,高文,ガウェイン,Gawain,高文,地,剧情限定,11419,10173,Quick,Arts,Buster,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,大猩猩,男性,秩序,善,骑乘&所爱之人&天地(拟似除外),,12
+124,3,静谧哈桑,静謐のハサン,Hassan of the Serenity,静谧哈桑,人,圣晶石常驻<br>友情点召唤,9310,6636,Quick,Quick,Arts,Arts,Buster,Arts,单体,银卡Assassin,Assassin,Assassin,,女性,秩序,恶,,,7
+125,3,俵藤太,俵藤太,Tawara Touta,俵藤太,人,圣晶石常驻<br>友情点召唤,9800,7032,Quick,Arts,Arts,Buster,Buster,Buster,全体,银卡Archer,Archer,Archer,表藤太&送米弓,男性,中立,善,所爱之人,,7
+126,3,贝德维尔,ベディヴィエール,Bedwyr,贝德维尔,星,通关报酬<br>剧情限定,9595,7627,Quick,Quick,Arts,Buster,Buster,Buster,单体,银卡Saber,Saber,Saber,小贝&贝卿,男性,秩序,善,骑乘&所爱之人,,7
+127,5,莱昂纳多・达・芬奇,レオナルド・ダ・ヴィンチ,Leonardo da Vinci,莱昂纳多·达·芬奇,星,期间限定,14259,10598,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,达芬奇亲&大碧池,女性,混沌,善,,,16
+128,5,玉藻前,玉藻の前,Tamamo-no-Mae,玉藻前(Lancer),天,期间限定,15147,10726,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,枪狐&水狐&枪玉,女性,中立,夏,骑乘&神性&天地(拟似除外),泳装&水着,16
+129,5,阿尔托莉雅・潘德拉贡,アルトリア・ペンドラゴン,Altria Pendragon,阿尔托莉雅·潘德拉贡(Archer),地,期间限定,14553,11276,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Archer,Archer,Archer,弓呆,女性,秩序,善,龙&阿尔托莉雅脸&亚瑟&王&天地(拟似除外),泳装&水着,16
+130,4,玛丽・安托瓦内特,マリー・アントワネット,Marie Antoinette,玛丽·安托瓦内特(Caster),人,期间限定,11404,9060,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,水马&水母&C玛丽,女性,秩序,善,,泳装&水着,12
+131,4,安妮・伯妮＆玛莉・瑞德,アン・ボニー＆メアリー・リード,Anne Bonny & Mary Read,安妮·伯妮＆玛莉·瑞德(Archer),人,期间限定,11521,9446,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Archer,Archer,Archer,弓双子,女性,混沌,中庸,,泳装&水着,12
+132,4,莫德雷德,モードレッド,Mordred,莫德雷德(Rider),地,期间限定,11400,9212,Quick,Quick,Arts,Arts,Buster,Arts,全体,金卡Rider,Rider,Rider,R莫&冲莫&泳莫&泳装小莫,女性,混沌,善,龙&阿尔托莉雅脸&天地(拟似除外),泳装&水着,12
+133,4,斯卡哈,スカサハ,Scáthach,斯卡哈(Assassin),星,活动赠送,11168,9049,Quick,Quick,Quick,Arts,Buster,Quick,全体,金卡Assassin,Assassin,Assassin,杀师匠&水师匠&杀阶BBA,女性,中立,善,王,泳装&水着,12
+134,4,清姬,清姫,Kiyohime,清姬(Lancer),地,期间限定,11870,8936,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,L清姬&枪清姬,女性,混沌,恶,龙&天地(拟似除外),泳装&水着,12
+135,4,玛尔达,マルタ,Martha,玛尔达(Ruler),人,期间限定,11250,9546,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Ruler,Ruler,Ruler,铁拳圣女,女性,秩序,善,,泳装&水着,12
+136,5,伊莉雅丝菲尔・冯・爱因兹贝伦,イリヤスフィール・フォン・アインツベルン,Illyasviel von Einzbern,伊莉雅丝菲尔·冯·爱因兹贝伦,人,期间限定,13825,10857,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Caster,Caster,Caster,伊莉雅&小学生,女性,中立,善,,,16
+137,4,克洛伊・冯・爱因兹贝伦,クロエ・フォン・アインツベルン,Chloe von Einzbern,克洛伊·冯·爱因兹贝伦,天,活动赠送,10914,9845,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Archer,Archer,Archer,小黑,女性,混沌,善,天地(拟似除外),,12
+138,4,伊丽莎白・巴托里(勇者),エリザベート・バートリー〔ブレイブ〕,Elisabeth Báthory (Brave),伊丽莎白·巴托里(勇者),地,活动赠送,11248,9899,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Saber,Saber,Saber,S龙娘&剑龙娘,女性,混沌,善,龙&天地(拟似除外),,12
+139,5,克娄巴特拉,クレオパトラ,Cleopatra,克娄巴特拉,人,期间限定,13402,11088,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Assassin,Assassin,Assassin,艳后,女性,秩序,中庸,神性&王,,16
+140,4,弗拉德三世(EXTRA),ヴラド三世〔EXTRA〕,Vlad III (EXTRA),弗拉德三世(EXTRA),人,圣晶石常驻,13005,8775,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,枪大公,男性,秩序,善,王,,12
+141,4,贞德・Alter・Santa・Lily,ジャンヌ・ダルク・オルタ・サンタ・リリィ,Jeanne d'Arc・Alter・Santa・Lily,贞德·Alter·Santa·Lily,人,活动赠送,11870,9261,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,童贞&幼贞&黑贞Lily&香香香,女性,混沌,善,阿尔托莉雅脸,,12
+142,5,伊什塔尔,イシュタル,Ishtar,伊什塔尔,天,期间限定,13965,12252,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Archer,Archer,Archer,弓凛&伊什塔凛,女性,秩序,善,神性,,16
+143,5,恩奇都,エルキドゥ,Enkidu,恩奇都,天,圣晶石常驻,15300,10780,Quick,Quick,Quick,Arts,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,小恩,其他,中立,中庸,天地(拟似除外),,16
+144,5,魁札尔・科亚特尔,ケツァル・コアトル,Quetzalcoatl,魁札尔·科亚特尔,天,剧情限定,12960,12001,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Rider,Rider,Rider,羽蛇神&大姐姐,女性,秩序,善,骑乘&神性&王&天地(拟似除外),,16
+145,4,吉尔伽美什,ギルガメッシュ,Gilgamesh,吉尔伽美什(Caster),人,圣晶石常驻,12005,8460,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,C闪,男性,秩序,善,神性&所爱之人&王,,12
+146,4,美杜莎,メドゥーサ,Medusa,美杜莎(Lancer),地,圣晶石常驻,13119,8253,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Lancer,Lancer,Lancer,R子&安娜&美杜莎Lily&幼r,女性,中立,善,神性&天地(拟似除外),,12
+147,4,戈耳工,ゴルゴーン,Gorgon,戈耳工,地,剧情限定,10197,10706,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Avenger,Avenger,Avenger,魔神R姐&复仇R姐,女性,混沌,恶,天地(拟似除外),,12
+148,3,豹人,ジャガーマン,Jaguar Man,豹人,地,通关报酬<br>剧情限定,9593,7022,Quick,Quick,Arts,Buster,Buster,Buster,单体,银卡Lancer,Lancer,Lancer,老虎&大河&藤姐,女性,混沌,中庸,神性&野兽,,7
+149,5,提亚马特,ティアマト,Tiamat,提亚马特,兽,无法获得,—,—,—,—,—,—,—,—,—,BeastII,Beast,Beast,提妈,女性,混沌,恶,神性&EA不特攻,,—
+150,5,梅林,マーリン,Merlin,梅林,地,期间限定,14259,10546,Quick,Arts,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,魔法少女梅莉,男性,秩序,善,天地(拟似除外),,16
+151,5,盖提亚,ゲーティア,Goetia,盖提亚,兽,无法获得,—,—,—,—,—,—,—,—,—,BeastI,Beast,Beast,魔神王&Gay提亚&人王,其他,混沌,恶,王&EA不特攻,,—
+152,5,所罗门,ソロモン,Solomon,所罗门(Caster),地,无法获得,—,—,—,—,—,—,—,—,—,金卡Caster,Caster,Caster,医生,男性,秩序,善,天地(拟似除外),,—
+153,5,宫本武藏,宮本武蔵,Miyamoto Musashi,宫本武藏,人,期间限定,13635,12037,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Saber,Saber,Saber,武藏,女性,混沌,善,,,16
+154,5,“山中老人”,“山の翁”,"""Old Man of the Mountain""",“山中老人”,人,期间限定,13338,11848,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Assassin,Assassin,Assassin,王哈&爷爷,男性,秩序,恶,所爱之人,,16
+155,5,谜之女主角X(Alter),謎のヒロインＸ〔オルタ〕,Mysterious Heroine X (Alter),谜之女主角X(Alter),星,期间限定,14175,11113,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Berserker,Berserker,Berserker,BX&BX毛&B呆,女性,中立,恶,龙&阿尔托莉雅脸&亚瑟&王&EA不特攻,阿尔托莉雅・潘德拉贡,16
+156,5,新宿的Archer,新宿のアーチャー,Archer of Shinjuku,新宿的Archer,人,期间限定,13685,11781,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Archer,Archer,Archer,教授&詹姆斯·莫里亚蒂,男性,混沌,恶,,真名隐藏,16
+157,4,卫宫(Alter),エミヤ〔オルタ〕,Emiya (Alter),卫宫(Alter),人,剧情限定,12250,8996,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Archer,Archer,Archer,黑A&大流士lily&黑茶,男性,混沌,恶,,,12
+158,4,新宿的Avenger,新宿のアヴェンジャー,Avenger of Shinjuku,新宿的Avenger,地,圣晶石常驻,9949,10628,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Avenger,Avenger,Avenger,狼王&黑森·罗伯,男性,混沌,恶,野兽&天地(拟似除外),真名隐藏,12
+159,4,新宿的Assassin,新宿のアサシン,Assassin of Shinjuku,新宿的Assassin,人,圣晶石常驻,11637,8661,Quick,Quick,Quick,Arts,Buster,Quick,单体,金卡Assassin,Assassin,Assassin,小乙哥&燕青,男性,混沌,恶,所爱之人,真名隐藏,12
+160,5,亚瑟・潘德拉贡(Prototype),アーサー・ペンドラゴン〔プロトタイプ〕,Arthur Pendragon (Prototype),亚瑟·潘德拉贡(Prototype),地,期间限定,13975,12465,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,旧剑,男性,秩序,善,骑乘&龙&亚瑟&所爱之人&王&天地(拟似除外),,16
+161,5,土方岁三,土方歳三,Hijikata Toshizou,土方岁三,人,期间限定,12028,12089,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,副长,男性,秩序,恶,,,16
+162,4,茶茶,茶々,Cha Cha,茶茶,人,活动赠送,11025,8945,Quick,Arts,Buster,Buster,Buster,Buster,全体,金卡Berserker,Berserker,Berserker,浅井茶茶&淀殿,女性,混沌,中庸,,,12
+163,5,Meltryllis,メルトリリス,Meltryllis,Meltryllis,地,期间限定,13402,11692,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Alterego,Alterego,Alterego,莉莉丝&Melt Lilith,女性,秩序,善,骑乘&神性&天地(拟似除外),,16
+164,4,Passionlip,パッションリップ,Passionlip,Passionlip,地,期间限定,10901,10299,Quick,Arts,Buster,Buster,Buster,Buster,全体,金卡Alterego,Alterego,Alterego,lip&帕森莉普,女性,秩序,中庸,神性&天地(拟似除外),,12
+165,4,铃鹿御前,鈴鹿御前,Suzuka Gozen,铃鹿御前,天,圣晶石常驻,11753,9544,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Saber,Saber,Saber,JK狐,女性,中立,恶,骑乘&神性&天地(拟似除外),,12
+166,4,BB,BB,BB,BB,人,活动赠送,13643,8197,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡MoonCancer,MoonCancer,MoonCancer,,女性,混沌,善,,,12
+167,5,杀生院祈荒,殺生院キアラ,Sessyoin Kiara,杀生院祈荒,兽,期间限定,14606,11668,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Alterego,Alterego,Alterego,妖尼姑,女性,混沌,恶,,,16
+168,5,BeastⅢ/R,ビーストⅢ／Ｒ,BeastⅢ/R,BeastⅢ/R,兽,无法获得,—,—,—,—,—,—,—,—,—,BeastIII,Beast,Beast,魔性菩萨&天堂之孔,女性,混沌,恶,EA不特攻,,—
+169,5,不夜城的Caster,不夜城のキャスター,Caster of Nightless City,不夜城的Caster,人,圣晶石常驻,15846,9212,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,1001&山鲁佐德,女性,秩序,中庸,,真名隐藏,16
+170,4,不夜城的Assassin,不夜城のアサシン,Assassin of Nightless City,不夜城的Assassin,人,圣晶石常驻,10942,8981,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Assassin,Assassin,Assassin,武则天,女性,秩序,恶,王,真名隐藏,12
+171,4,黄金国的Berserker,エルドラドのバーサーカー,Berserker of El Dorado,黄金国的Berserker,地,圣晶石常驻,10175,10502,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,CEO&亚马逊&彭忒西勒亚,女性,秩序,善,神性&王&天地(拟似除外),真名隐藏,12
+172,3,反抗军的Rider,レジスタンスのライダー,Rider of Resistance,反抗军的Rider,人,剧情限定,9600,6552,Quick,Arts,Arts,Buster,Buster,Buster,全体,银卡Rider,Rider,Rider,克里斯托弗·哥伦布,男性,中立,恶,骑乘,真名隐藏,7
+173,5,夏洛克・福尔摩斯,シャーロック・ホームズ,Sherlock Holmes,夏洛克·福尔摩斯,星,期间限定,13365,11495,Quick,Quick,Arts,Arts,Buster,Arts,辅助,金卡Ruler,Ruler,Ruler,老福,男性,中立,善,EA不特攻,,16
+174,1,保罗・班扬,ポール・バニヤン,Paul Bunyan,保罗·班扬,地,活动赠送,6196,6044,Quick,Arts,Buster,Buster,Buster,Buster,全体,铜卡Berserker,Berserker,Berserker,,女性,中立,中庸,天地(拟似除外),,3
+175,5,尼禄・克劳狄乌斯,ネロ・クラウディウス,Nero Claudius,尼禄·克劳狄乌斯(Caster),人,期间限定,13685,10857,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Caster,Caster,Caster,术尼禄&泳装尼禄&水尼禄&水泥路,女性,混沌,夏,骑乘&罗马&阿尔托莉雅脸&王,泳装&水着,16
+176,4,弗兰肯斯坦,フランケンシュタイン,Frankenstein,弗兰肯斯坦(Saber),地,期间限定,11993,9353,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Saber,Saber,Saber,剑肯娘,女性,中立,夏,骑乘&天地(拟似除外),泳装&水着,12
+177,4,尼托克丽丝,ニトクリス,Nitocris,尼托克丽丝(Assassin),天,期间限定,11518,8812,Quick,Quick,Arts,Arts,Buster,Arts,全体,金卡Assassin,Assassin,Assassin,杀尼托&水泥&水尼托,女性,秩序,善,神性&王&天地(拟似除外),泳装&水着,12
+178,4,织田信长,織田信長,Oda Nobunaga,织田信长(Berserker),人,期间限定,10023,10146,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,狂信长,女性,混沌,夏,王,泳装&水着,12
+179,5,阿尔托莉雅・潘德拉贡(Alter),アルトリア・ペンドラゴン〔オルタ〕,Altria Pendragon (Alter),阿尔托莉雅·潘德拉贡(Alter)(Rider),人,期间限定,14256,10776,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Rider,Rider,Rider,水黑呆,女性,秩序,恶,骑乘&龙&阿尔托莉雅脸&亚瑟&王,泳装&水着,16
+180,4,海伦娜・布拉瓦茨基,エレナ・ブラヴァツキー,Helena Blavatsky,海伦娜·布拉瓦茨基(Archer),人,期间限定,11404,9446,Quick,Quick,Arts,Arts,Buster,Arts,全体,金卡Archer,Archer,Archer,弓海,女性,混沌,善,,泳装&水着,12
+181,4,源赖光,源頼光,Minamoto-no-Raikou,源赖光(Lancer),天,期间限定,12112,9168,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,枪奶光,女性,秩序,善,骑乘&神性&天地(拟似除外),泳装&水着,12
+182,4,伊什塔尔,イシュタル,Ishtar,伊什塔尔(Rider),天,活动赠送,10692,9603,Quick,Quick,Arts,Arts,Buster,Quick,全体,金卡Rider,Rider,Rider,R凛&骑凛&水凛,女性,秩序,善,骑乘&神性,泳装&水着,12
+183,4,帕尔瓦蒂,パールヴァティー,Parvati,帕尔瓦蒂,天,圣晶石常驻,13253,8127,Quick,Quick,Arts,Buster,Buster,Quick,全体,金卡Lancer,Lancer,Lancer,雪山樱,女性,秩序,善,神性,,12
+184,4,Archer Inferno,アーチャー・インフェルノ,Archer Inferno,Archer Inferno,地,圣晶石常驻,10804,9946,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Archer,Archer,Archer,巴御前,女性,中立,中庸,魔性&天地(拟似除外),真名隐藏,12
+185,4,Assassin Paraiso,アサシン・パライソ,Assassin Paraiso,Assassin Paraiso,地,圣晶石常驻,11637,8510,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Assassin,Assassin,Assassin,望月千代女,女性,混沌,恶,天地(拟似除外),真名隐藏,12
+186,3,宝藏院胤舜,宝蔵院胤舜,Houzouin Insyun,宝藏院胤舜,人,圣晶石常驻<br>友情点召唤,9996,6791,Quick,Quick,Quick,Arts,Buster,Arts,辅助,银卡Lancer,Lancer,Lancer,,男性,中立,中庸,所爱之人,,7
+187,4,柳生但马守宗矩,柳生但馬守宗矩,Yagyuu Dajimanokamimunenori,柳生但马守宗矩,人,剧情限定,11135,9999,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Saber,Saber,Saber,剑圣&柳但&榴弹&柳糖&老爷,男性,秩序,中庸,骑乘&所爱之人,,12
+188,4,加藤段藏,加藤段蔵,Katou Danzou,加藤段藏,地,剧情限定,11055,8935,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Assassin,Assassin,Assassin,,女性,中立,中庸,天地(拟似除外),,12
+189,5,刑部姬,刑部姫,Osakabehime,刑部姬,地,圣晶石常驻,13822,10824,Quick,Quick,Arts,Arts,Buster,Quick,辅助,金卡Assassin,Assassin,Assassin,宅姬&NEET姬&家里蹲&绿拐&邢捕头,女性,混沌,中庸,神性&天地(拟似除外),,16
+190,4,机械小伊丽,メカエリチャン,Mecha Eli-chan,机械小伊丽,人,活动赠送,10901,9997,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Alterego,Alterego,Alterego,机械龙娘&1号机,女性,秩序,善,人类威胁,,12
+191,4,机械小伊丽Ⅱ号机,メカエリチャンⅡ号機,Mecha Eli-chan Ⅱ,机械小伊丽Ⅱ号机,人,活动赠送,10901,9997,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Alterego,Alterego,Alterego,机械龙娘&2号机,女性,秩序,善,人类威胁,,12
+192,4,俄刻阿诺斯的Caster,オケアノスのキャスター,Caster of Okeanos,俄刻阿诺斯的Caster,天,圣晶石常驻,12250,8671,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Caster,Caster,Caster,姑姑&喀耳刻,女性,混沌,中庸,天地(拟似除外),真名隐藏,12
+193,4,哪吒,哪吒,Nezha,哪吒,天,圣晶石常驻,12112,9284,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,三公主,女性,中立,善,天地(拟似除外),,12
+194,4,米德拉什的Caster,ミドラーシュのキャスター,Caster of Midrash,米德拉什的Caster,人,剧情限定,12127,8629,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Caster,Caster,Caster,示巴女王,女性,中立,善,王,真名隐藏,12
+195,5,阿比盖尔・威廉姆斯,アビゲイル・ウィリアムズ,Abigail Williams,阿比盖尔·威廉姆斯,地,期间限定,13770,12100,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Foreigner,Foreigner,Foreigner,阿比&泡泡&银钥匙,女性,混沌,恶,神性&EA不特攻&天地(拟似除外)&人类威胁,,16
+196,5,埃列什基伽勒,エレシュキガル,Ereshkigal,埃列什基伽勒,地,期间限定,16065,10343,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Lancer,Lancer,Lancer,艾蕾&枪凛,女性,混沌,恶,神性&王,,16
+197,4,阿蒂拉・the・圣(诞),アルテラ・ザ・サン〔タ〕,Altera the San(ta),阿蒂拉·the·圣(诞),星,活动赠送,11637,9759,Quick,Quick,Arts,Arts,Buster,Quick,单体,金卡Archer,Archer,Archer,弓大王,女性,混沌,善,骑乘&神性&王&EA不特攻,,12
+198,5,葛饰北斋,葛飾北斎,Katsushika Hokusai,葛饰北斋,人,期间限定,13230,12100,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Foreigner,Foreigner,Foreigner,阿荣,女性,混沌,中庸,神性&人类威胁,,16
+199,5,赛米拉米斯,セミラミス,Semiramis,赛米拉米斯,地,期间限定,13266,11309,Quick,Arts,Arts,Arts,Buster,Buster,全体,金卡Assassin,Assassin,Assassin,女帝,女性,秩序,恶,神性&王&天地(拟似除外),,16
+200,4,浅上藤乃,浅上藤乃,Asagami Fujino,浅上藤乃,人,期间限定,11025,10299,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Archer,Archer,Archer,,女性,秩序,恶,EA不特攻,,12
+201,5,阿纳斯塔西娅,アナスタシア,Anastasia,阿纳斯塔西娅,人,圣晶石常驻,14259,10546,Quick,Arts,Arts,Arts,Buster,Arts,全体,金卡Caster,Caster,Caster,皇女,女性,中立,中庸,,,16
+202,4,阿塔兰忒(Alter),アタランテ〔オルタ〕,Atalante (Alter),阿塔兰忒(Alter),地,圣晶石常驻,10634,9806,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Berserker,Berserker,Berserker,狂塔&黑塔&黑塔喵,女性,混沌,恶,野兽&天地(拟似除外),,12
+203,3,阿维斯布隆,アヴィケブロン,Avicebron,阿维斯布隆,人,圣晶石常驻<br>友情点召唤,9981,6376,Quick,Arts,Arts,Arts,Buster,Buster,全体,银卡Caster,Caster,Caster,黑C,男性,秩序,中庸,,,7
+204,3,安东尼奥・萨列里,アントニオ・サリエリ,Antonio Salieri,安东尼奥·萨列里,地,剧情限定,7840,8125,Quick,Arts,Arts,Buster,Buster,Arts,全体,银卡Avenger,Avenger,Avenger,萨老师,男性,混沌,恶,所爱之人&天地(拟似除外),,7
+205,5,伊凡雷帝,イヴァン雷帝,Ivan the Terrible,伊凡雷帝,人,期间限定,13284,11619,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Rider,Rider,Rider,雷帝,男性,秩序,恶,骑乘&野兽&王,,16
+206,5,阿喀琉斯,アキレウス,Achilles,阿喀琉斯,地,圣晶石常驻,13219,11883,Quick,Quick,Arts,Arts,Buster,Quick,全体,金卡Rider,Rider,Rider,脚后跟,男性,秩序,中庸,骑乘&神性&所爱之人&希腊神话男性&天地(拟似除外),,16
+207,4,喀戎,ケイローン,Chiron,喀戎,天,圣晶石常驻,12250,9294,Quick,Quick,Arts,Arts,Buster,Arts,单体,金卡Archer,Archer,Archer,师匠&马老师,男性,秩序,善,神性&希腊神话男性&天地(拟似除外),,12
+208,4,齐格,ジーク,Sieg,齐格,人,活动赠送,11288,8394,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Caster,Caster,Caster,奥特飞,男性,中立,善,龙,,12
+209,5,冲田总司(Alter),沖田総司〔オルタ〕,Okita Souji (Alter),冲田总司(Alter),人,期间限定,12696,12465,Quick,Quick,Arts,Buster,Buster,Buster,全体,金卡Alterego,Alterego,Alterego,魔神总司,女性,中立,中庸,阿尔托莉雅脸&所爱之人,,16
+210,3,冈田以藏,岡田以蔵,Okada Izou,冈田以藏,人,期间限定,8844,6879,Quick,Quick,Arts,Arts,Buster,Arts,单体,银卡Assassin,Assassin,Assassin,,男性,中立,恶,,,7
+211,4,坂本龙马,坂本龍馬,Sakamoto Ryouma,坂本龙马,人,活动赠送,11880,8555,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Rider,Rider,Rider,,男性,中立,中庸,骑乘&神性&所爱之人,,12
+212,5,拿破仑,ナポレオン,Napoleon,拿破仑,星,圣晶石常驻,13097,12033,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡Archer,Archer,Archer,拿皇,男性,中立,善,王&所爱之人&EA不特攻,,16
+213,5,齐格鲁德,シグルド,Sigurd,齐格鲁德,地,期间限定,13975,12465,Quick,Arts,Arts,Buster,Buster,Buster,单体,金卡Saber,Saber,Saber,西哥,男性,中立,善,骑乘&神性&所爱之人&天地(拟似除外)&龙,,16
+214,4,瓦尔基里,ワルキューレ,Valkyrie,瓦尔基里,天,圣晶石常驻,14025,8037,Quick,Quick,Arts,Buster,Buster,Quick,全体,金卡Lancer,Lancer,Lancer,女武神,女性,秩序,善,神性&天地(拟似除外),,12
+215,5,斯卡哈・丝卡蒂,スカサハ=スカディ,Scáthach-Skadi,斯卡哈·丝卡蒂,天,期间限定,14406,10753,Quick,Quick,Arts,Arts,Buster,Arts,辅助,金卡Caster,Caster,Caster,cba,女性,混沌,善,神性&天地(拟似除外)&王,,16
+216,5,贞德,ジャンヌ・ダルク,Jeanne d'Arc,贞德(Archer),人,期间限定,15743,10525,Quick,Arts,Arts,Buster,Buster,Arts,全体,金卡Archer,Archer,Archer,鲸贞姑&水白贞&弓白贞&贞环转,女性,秩序,夏,阿尔托莉雅脸,泳装&水着,16
+217,4,茨木童子,茨木童子,Ibaraki-Douji,茨木童子(Lancer),地,期间限定,12354,9133,Quick,Quick,Arts,Buster,Buster,Buster,单体,金卡Lancer,Lancer,Lancer,枪茨木,女性,混沌,恶,魔性&天地(拟似除外),泳装&水着,12
+218,4,牛若丸,牛若丸,Ushiwakamaru,牛若丸(Assassin),人,期间限定,10580,9456,Quick,Quick,Quick,Arts,Buster,Quick,全体,金卡Assassin,Assassin,Assassin,杀牛若,女性,中立,夏,骑乘&所爱之人,泳装&水着,12
+219,4,贞德(Alter),ジャンヌ・ダルク〔オルタ〕,Jeanne d'Arc (Alter),贞德(Alter)(Berserker),人,活动赠送,9922,10298,Quick,Arts,Buster,Buster,Buster,Buster,单体,金卡Berserker,Berserker,Berserker,水黑贞&狂黑贞,女性,混沌,夏,阿尔托莉雅脸,泳装&水着,12
+220,5,BB,BB,BB,BB(SSR),地,期间限定,14812,11182,Quick,Arts,Arts,Buster,Buster,Buster,全体,金卡MoonCancer,MoonCancer,MoonCancer,水B,女性,混沌,恶,神性&天地(拟似除外),泳装&水着,16
+221,4,女王梅芙,女王メイヴ,Queen Medb,女王梅芙(Saber),地,期间限定,13609,8017,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Saber,Saber,Saber,剑梅芙,女性,混沌,恶,骑乘&王&天地(拟似除外),泳装&水着,12
+222,4,谜之女主角XX,謎のヒロインXX,Mysterious Heroine XX,谜之女主角XX,星,期间限定,11250,9751,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Foreigner,Foreigner,Foreigner,水枪X&XX毛,女性,秩序,善,龙&阿尔托莉雅脸&亚瑟&王&EA不特攻&骑乘&所爱之人,阿尔托莉雅・潘德拉贡&泳装&水着,12
+223,4,迪尔姆德・奥迪那,ディルムッド・オディナ,Diarmuid Ua Duibhne,迪尔姆德·奥迪那(Saber),地,圣晶石常驻,11362,10048,Quick,Quick,Arts,Buster,Buster,Quick,单体,金卡Saber,Saber,Saber,剑刷,男性,秩序,中庸,骑乘&所爱之人&天地(拟似除外),,12
+224,5,西托奈,シトナイ,Shitonai,西托奈,天,剧情限定,13965,11668,Quick,Arts,Arts,Buster,Buster,Arts,单体,金卡Alterego,Alterego,Alterego,AE伊莉雅&志度内,女性,混沌,善,神性&天地(拟似除外),,16
+225,4,酒吞童子,酒呑童子,Shuten-Douji,酒吞童子(Caster),地,活动赠送,11025,9538,Quick,Arts,Arts,Arts,Buster,Buster,单体,金卡Caster,Caster,Caster,术酒吞,女性,混沌,恶,神性&魔性&龙&天地(拟似除外),,12
